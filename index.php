@@ -1,7 +1,7 @@
 <?php 
 
-$code = "86781236-23d0-4b3c-7dfa-c1c147e0dece";
-$personalToken = "gOVeeMIKsloxNWJkJT2jyqunxy1Wnyzf";
+$code = "5e729ee8-835b-4d92-aca4-91c08f9df3fb";
+$personalToken = "j3Yto28aP9qZGzax79gwcN1ym94abSD6";
 $userAgent = "Purchase code verification on laraswift.dev";
 
 // Surrounding whitespace can cause a 404 error, so trim it first
