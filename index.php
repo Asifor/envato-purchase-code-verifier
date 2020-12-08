@@ -64,4 +64,6 @@ if ($body === false && json_last_error() !== JSON_ERROR_NONE) {
 $id = $body->item->id; // (int) 17022701
 $name = $body->item->name; // (string) "SEO Studio - Professional Tools for SEO"
 
+echo $name;
+
 ?>
